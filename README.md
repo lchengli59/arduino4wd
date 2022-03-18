@@ -33,5 +33,5 @@ Additional f-f jumper wires would need to be purchased.
 
 You need to download from https://www.arduino.cc/en/software to get the arduino developing environment.  You would need to do some soldering to connect the DC Motor to L298N.  Connect L298N to Arduino UNO R3 Board. (Reference:Arduino Robot Car Control by Dejan Nedelkovski, www.HowToMechatronics.com)
 
-Motor Test: l298n.ino
+Motor Test: l298n.ino (20220317.mp4)
 
